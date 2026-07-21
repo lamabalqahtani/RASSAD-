@@ -37,3 +37,5 @@ Multiple datasets were integrated and preprocessed:
 
 DistilRoBERTa was selected as the final model for achieving the best balance across classes (F1-score).
 
+## Tech Stack
+•	Python · PyTorch · Hugging Face Transformers · Captum (XAI) · Scikit-learn · Streamlit
