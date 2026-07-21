@@ -24,6 +24,11 @@ Multiple datasets were integrated and preprocessed:
 •	GDPR Violations and Sanctions (GitHub)
 
 # Models & Results
-
+| Metric | DistilRoBERTa | BiLSTM | XLNet |
+|--------|--------------:|--------:|-------:|
+| Accuracy | 93.85% | 94.65% | 91.17% |
+| F1 Score | 89.99% | 88.53% | 74.52% | 
+| Precision | 93.86% | 95.00% | 90.72% | 
+| Recall | 93.85% | 94.65% | 91.17% |
 
 
