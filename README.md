@@ -9,7 +9,7 @@ Manual PDPL compliance auditing is time-consuming, susceptible to human error, a
 - Provides transparent explanations for each prediction, making the model's decisions understandable.
 - Offers actionable recommendations to help resolve detected compliance issues based on the type of violation.
 
-# System Components
+## System Components
 1. Classification Module – An AI model that analyzes the input text and predicts whether it complies with PDPL by classifying it into one of 17 violation categories or "No Violation."
 2. Explainable AI (XAI) Module – Employs the Integrated Gradients method from the Captum library to identify the words that contributed most to the model's prediction and associates them with the corresponding PDPL article.
 3. Recommendation Module – A rule-based component that produces tailored recommendations and practical corrective actions based on the detected violation type.
@@ -27,7 +27,7 @@ Multiple datasets were integrated and preprocessed:
 - World's Biggest Data Breaches and Hacks (Kaggle)
 - GDPR Violations and Sanctions (GitHub)
 
-# Models & Results
+## Models & Results
 | Metric | DistilRoBERTa | BiLSTM | XLNet |
 |--------|--------------:|--------:|-------:|
 | Accuracy | 93.85% | 94.65% | 91.17% |
@@ -55,3 +55,19 @@ A reference guide offering simplified explanations for each article of the Saudi
 
 ### Dashboard
 ![Dashboard](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Dashboard.png?raw=true)
+
+### History
+![History](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/History.jpg?raw=true)
+
+## Future Work
+* **Proactive Risk Prediction:** Identifies compliance risks early, before violations occur.
+* **LLM-Powered Explainability:** Enhances transparency and understanding using Large Language Models.
+* **Adaptive Recommendations:** Delivers real-time, dynamic guidance rather than relying on static, rule-based logic.
+* **Comprehensive Data Training:** Built on a larger, more diverse dataset of real-world scenarios.
+
+## Project Team
+Lama Alqahtani
+Lojain Alahmadi
+Reham Alhmaidi
+Shahad Mahrous
+Juman Beyari
