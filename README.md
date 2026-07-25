@@ -39,3 +39,6 @@ DistilRoBERTa was selected as the final model for achieving the best balance acr
 
 ## Tech Stack
 •	Python · PyTorch · Hugging Face Transformers · Captum (XAI) · Scikit-learn · Streamlit
+
+## Demo Screenshots
+Home Page 
