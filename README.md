@@ -66,8 +66,8 @@ A reference guide offering simplified explanations for each article of the Saudi
 * **Comprehensive Data Training:** Built on a larger, more diverse dataset of real-world scenarios.
 
 ## Project Team
-Lama Alqahtani
-Lojain Alahmadi
-Reham Alhmaidi
-Shahad Mahrous
-Juman Beyari
+* **Lama Alqahtani**
+* **Lojain Alahmadi**
+* **Reham Alhmaidi**
+* **Shahad Mahrous**
+* **Juman Beyari**
