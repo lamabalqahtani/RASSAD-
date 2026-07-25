@@ -40,18 +40,18 @@ DistilRoBERTa was selected as the final model for achieving the best balance acr
 ## Tech Stack
 •	Python · PyTorch · Hugging Face Transformers · Captum (XAI) · Scikit-learn · Streamlit
 
-# Demo Screenshots
-# Home Page 
+## Demo Screenshots
+### Home Page 
 ![Home Page](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Home%20Page.jpg?raw=true)
 
-# Check Compliance, XAI Explination & Recommendations
+### Check Compliance, XAI Explination & Recommendations
 ![Check Compliance](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Check_Compliance.png?raw=true)
 
 Users can input text directly or upload documents (Word, PDF, TXT) to evaluate compliance. The system instantly delivers compliance status, XAI explanations linked to PDPL articles, and actionable recommendations in a single view.
 
-# PDPL Standards
+### PDPL Standards
 ![PDPL Standards](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/PDPL_Standards.png?raw=true)
 A reference guide offering simplified explanations for each article of the Saudi Personal Data Protection Law (PDPL).
 
-# Dashboard
+### Dashboard
 ![Dashboard](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Dashboard.png?raw=true)
