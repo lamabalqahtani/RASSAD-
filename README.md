@@ -42,3 +42,4 @@ DistilRoBERTa was selected as the final model for achieving the best balance acr
 
 ## Demo Screenshots
 Home Page 
+![Home Page](images/Home%20Page.png)
