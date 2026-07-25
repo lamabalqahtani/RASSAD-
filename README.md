@@ -43,3 +43,8 @@ DistilRoBERTa was selected as the final model for achieving the best balance acr
 ## Demo Screenshots
 Home Page 
 ![Home Page](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Home%20Page.jpg?raw=true)
+
+Check Compliance, XAI Explination & Recommendations
+![Check Compliance](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Check_Compliance.png?raw=true)
+
+Users can input text directly or upload documents (Word, PDF, TXT) to evaluate compliance. The system instantly delivers compliance status, XAI explanations linked to PDPL articles, and actionable recommendations in a single view.
