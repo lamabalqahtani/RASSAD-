@@ -52,3 +52,6 @@ Users can input text directly or upload documents (Word, PDF, TXT) to evaluate c
 PDPL Standards
 ![PDPL Standards](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/PDPL_Standards.png?raw=true)
 A reference guide offering simplified explanations for each article of the Saudi Personal Data Protection Law (PDPL).
+
+Dashboard
+![Dashboard](https://github.com/lamabalqahtani/RASSAD-/blob/main/images/Dashboard.png?raw=true)
